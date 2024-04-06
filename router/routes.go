@@ -6,6 +6,8 @@ import (
 )
 
 func initRoutes(r *gin.Engine) {
+	handler.InitHandler()
+
 	v1 := r.Group("/v1")
 	{
 		openings := v1.Group("/openings")
