@@ -15,7 +15,8 @@ Este é o meu **primeiro projeto** utilizando a linguagem **Golang**. Neste proj
 4. **Inicie o aplicativo:** `./bin/openings`
 
 ## Futuros recursos
-- [ ] **PostgreSQL** como banco de dados
+- [ ] **PostgreSQL** como banco de dados;
+- [ ] **Segurança** opções de segurança para as rotas.
 
 ## Licença
 
